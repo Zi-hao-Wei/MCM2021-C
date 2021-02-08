@@ -1,0 +1,3 @@
+若要修改页边距请将mcmthesis.cls第81行的margin也设置为相同数值
+
+注意看.bib文件的内容，才能将Reference写正确
